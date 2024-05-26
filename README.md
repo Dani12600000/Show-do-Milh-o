@@ -9,7 +9,7 @@ Antes de abrir o Show do Milhão em si vá a base de dados que se encontra no di
 Atualmente ainda não há um executavel que facilite a introdução de jogadores na base de dados na vista de utilizador, mas será colocado num proximo update
 
 # Reportem
-Se encontrarem algum problema no jogo por favor reportem no meu git, ou atraves deste link github.com/Dani12600000/Show_do_milhao_adventista/issues/new
+Se encontrarem algum problema no jogo por favor reportem no meu git, ou atraves deste link [github.com/Dani12600000/Show_do_milhao_adventista/issues/new](github.com/Dani12600000/Show_do_milhao_adventista/issues/new)
 
 #Feito por
 Este projeto foi feito, e está a ser feito por Daniel Pereira da IASD Abrantes
