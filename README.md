@@ -12,6 +12,6 @@ Atualmente ainda não há um executavel que facilite a introdução de jogadores
 Se encontrarem algum problema no jogo por favor reportem no meu git, ou atraves deste link [github.com/Dani12600000/Show_do_milhao_adventista/issues](github.com/Dani12600000/Show_do_milhao_adventista/issues)
 
 # Feito por
-Este projeto foi feito, e está a ser feito por Daniel Pereira da IASD Abrantes
-Caso queira ajudar a desenvolver o projeto toda a ajuda é bem vinda, para tal entre em contacto comigo
+Este projeto foi feito, e está a ser feito por Daniel Pereira da IASD Abrantes <br>
+Caso queira ajudar a desenvolver o projeto toda a ajuda é bem vinda, para tal entre em contacto comigo <br>
 (Perdi a versão editavel mais recente do projeto por isso vai demorar um bocado a ter aqui novamente a versão mais dinamica do jogo) 🤡🥹🤦
